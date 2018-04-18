@@ -264,6 +264,10 @@ iframe {
 		text-decoration: underline;
 	}
 
+	#archive {
+		float: left;
+	}
+
 /********** Details **********/
 
 #details {
