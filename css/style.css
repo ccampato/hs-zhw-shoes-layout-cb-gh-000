@@ -275,6 +275,7 @@ iframe {
 	section {
 		padding: 20px;
 		background: white;
+		height: auto;
 	}
 
 	section a {
