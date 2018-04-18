@@ -27,6 +27,7 @@ h2, h3 {
 
 ul, ol {
 	margin-bottom: 10px;
+	float: left;
 }
 
 li {
